@@ -1,3 +1,7 @@
+html{
+	/*background: url(images/sitebg.png) no-repeat center fixed;*/
+	/*background-size: 100%;*/
+}
 body{
 	padding-top: 20px;
 	font-size: 16px;
